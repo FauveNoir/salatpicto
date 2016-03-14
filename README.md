@@ -7,4 +7,10 @@
 |      Sunrise                  |      After true noon          |       Afternoon         |     After sunset                |     Dusk until dawn       |
 
 Salatpicto is a set of pictograms designed to indicate [islamic salat](https://en.wikipedia.org/wiki/Salah).
+
 The islamic salat is devided into five moments, witch have different rules.
+
+##Usage
+This picto are designed to be integrated on computer and phone apps like [*Minbar*](http://djihed.com/minbar) and I expect they could be included on Unicode.
+
+![Informative bar](mokup-information-bar.png)
