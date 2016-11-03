@@ -16,7 +16,7 @@ In addition to main salats, Islam has optional salat witch performed in some sit
 
 | Pictogramm                                          | Arabic name | Latin transcription | English name | Explanations |
 |:---------------------------------------------------:|-------------|---------------------|--------------|--------------|
-|![extend-Aid-al-adha-picto](./extend-Aid-al-adha.png)|صلاة عيد الأضحى|*Aïd al-Adha*        |Eid al Adha   |Performed in Feast of the Sacrifice.|
+|![extend-Aid-al-adha-picto](./extend-Aid-al-Adha.png)|صلاة عيد الأضحى|*Aïd al-Adha*        |Eid al Adha   |Performed in Feast of the Sacrifice.|
 |![extend-Aid-al-Fitr-picto](./extend-Aid-al-Fitr.png)|صلاة عيد الفطر|*Aïd al-Fitr*        |Eid al Fitr   |Performed in Feast of Breaking the Fast.|
 |![extend-istikhara-picto](./extend-istikhara.png)    |صلاة الإستسقاء |*Istikhara*          |Ascites       |In some countrys is it performed in mosque in case of extended drought.              |
 |![extend-janazah-picto](./extend-janazah.png)        |صلاة الجنازة  |*Janazah*            |Funeral       |The funeral pray is performed just before a regural pray when, in the mosque whose chosen for a defunct funeral (everebody do it, uncluded defunct’s foreins).|
