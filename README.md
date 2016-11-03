@@ -39,3 +39,5 @@ And it is naturally possible to combine multiple extend prayers with a regular o
 This picto are designed to be integrated on computer and phone apps like [*Minbar*](http://djihed.com/minbar) and I expect they could be included on Unicode.
 
 ![Informative bar](mokup-information-bar.png)
+
+![In Android smartphone](mokup-android.png)
