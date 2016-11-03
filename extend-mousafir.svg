@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="21.62282"
+   height="27.29705"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="extend-Aïd-al-Adha.svg"
+   inkscape:export-filename="/tmp/salatpicto.png"
+   inkscape:export-xdpi="139.73219"
+   inkscape:export-ydpi="139.73219">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6734966"
+     inkscape:cx="12.488036"
+     inkscape:cy="15.082614"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="956"
+     inkscape:window-height="509"
+     inkscape:window-x="960"
+     inkscape:window-y="569"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.808608,-306.63242)">
+    <g
+       id="g3929"
+       transform="matrix(0.75397559,0,0,0.75397559,8.1718944,77.008058)"
+       style="stroke:#000000;stroke-width:3.44838738;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#000000;stroke-width:3.44838738;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="M 80.323836,334.07382 60.901902,306.295"
+         id="path3927"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3918"
+         d="m 80.727442,313.43775 c 3.142011,4.61267 1.949799,10.89909 -2.662874,14.0411 -4.612682,3.14201 -10.899098,1.94981 -14.04111,-2.66288 -3.142011,-4.61268 -1.949799,-10.89909 2.662874,-14.04111 4.611143,-3.14096 10.895296,-1.95072 14.03843,2.65895"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.99978781;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:3.44838738;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 81.060661,331.87731 c -7.041886,4.79671 -16.638952,2.97664 -21.435661,-4.06524 -4.796707,-7.04189 -2.976633,-16.63896 4.065239,-21.43567"
+         id="path3921" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#000000;stroke-width:3.44838738;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 68.117621,339.03631 c -1.487714,0 8.336006,0 8.336006,0"
+         id="path3923"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
